@@ -14,3 +14,5 @@
 - Ability to see test stages on the screen
 - With defective product counter
 - With robust product counter
+
+Design by https://www.linkedin.com/in/musacufalci/
