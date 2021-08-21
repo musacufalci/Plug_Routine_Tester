@@ -1,4 +1,4 @@
-# Plug_Routine_Tester_Device (Fiş Rutin Test Cihazı)
+# Plug Routine Tester Device
 
 1) Place of Use: Performs routine tests of electrical plugs against manufacturing defects.
 
