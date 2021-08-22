@@ -15,4 +15,4 @@
 - With defective product counter
 - With robust product counter
 
-Design by https://www.linkedin.com/in/musacufalci/
+- Design by: https://www.linkedin.com/in/musacufalci/
